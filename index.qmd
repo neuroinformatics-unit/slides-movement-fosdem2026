@@ -24,7 +24,6 @@ We can quantify *movements* through various tools:
 - 🎥 **Video cameras**
 - 📱 Inertial measurement units (IMUs)
 - 🛰️ GPS-based biologgers
-- 🎤 Microphones
 :::
 
 ## From videos to motion {.smaller}
@@ -72,15 +71,14 @@ We can quantify *movements* through various tools:
 
 ![](img/gap_after_tracking.png){height="250px"}
 
-::: {.fragment}
+::: {.incremental}
 - Lack of standardised data formats and tools
-- Little cross-talk between research fields
 - Lots of fragile 'in-house' scripts
 - Piles of un-analysed data
 :::
 
 
-## `movement` overview {.smaller}
+## movement: overview {.smaller}
 
 ![](img/movement_overview.png){fig-align="center"}
 
@@ -89,11 +87,7 @@ We can quantify *movements* through various tools:
 :::
 
 
-## `movement` GUI {.smaller}
-
-![](img/napari_screenshot.png){fig-align="center"}
-
-## `movement` example applications {.smaller}
+## movement: example applications {.smaller}
 
 ::: {layout="[[25, 25, 20, 20], [40, 20, 40]]"}
 
@@ -137,8 +131,15 @@ See also [movement.neuroinformatics.dev/latest/examples](https://movement.neuroi
 :::
 
 
-## Community adoption {.smaller}
+## movement GUI {.smaller background-color="black"}
 
+{{< video "img/movement_demo_octagon_CBIAS2025.mp4" height="550" width="880" >}}
+
+::: footer
+[Sample data](https://movement.neuroinformatics.dev/user_guide/input_output.html#sample-data): __Octagon__ from *Ann Duan's Lab*.
+:::
+
+## Community adoption {.smaller}
 
 - {{< fa download >}} >70k downloads (PyPI + conda-forge)
 - {{< fa brands github >}} 29 code contributors | {{< fa code-pull-request >}} ~300 merged pull requests
@@ -151,16 +152,11 @@ See also [movement.neuroinformatics.dev/latest/examples](https://movement.neuroi
 :::
 
 
-
 ## The bigger picture
 
 ::: {.r-stack}
 
-![](img/neuroethology_workflow_movement_A.png){width="1000px"}
-
-::: {.fragment}
 ![](img/neuroethology_workflow_movement_B.png){width="1000px"}
-:::
 
 ::: {.fragment}
 ![](img/neuroethology_workflow_movement_C.png){width="1000px"}
@@ -194,7 +190,7 @@ Long-term vision: `movement` as the *scikit-image* for animal motion data.
 :::
 
 
-## Join the `movement`!
+## Join the movement!
 
 - {{< fa globe >}} [movement.neuroinformatics.dev](https://movement.neuroinformatics.dev/)
 - {{< fa brands github >}} [github.com/neuroinformatics-unit/movement](https://github.com/neuroinformatics-unit/movement)
