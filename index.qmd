@@ -12,6 +12,22 @@ links:
    chat: "https://neuroinformatics.zulipchat.com/#narrow/stream/406001-Movement"
 ---
 
+## {{< fa address-card >}} whoami
+
+- **Neuroscientist** & **Research Software Engineer** 🧠🐭💻
+- [Neuroinformatics Unit](https://neuroinformatics.dev), [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), UCL
+- Fellow of the [Software Sustainability Institute](https://www.software.ac.uk/)
+- Lead developer of [movement](https://movement.neuroinformatics.dev)
+
+::: {.callout-tip appearance="simple" icon=false} 
+## {{< fa comments >}} Find me online
+
+{{< fa brands github >}} [niksirbi](https://github.com/niksirbi) |
+{{< fa brands mastodon >}} [\@niksirbi\@neuromatch.social](https://neuromatch.social/@niksirbi) |
+{{< fa globe >}} {{< iconify simple-icons bluesky >}} [nikosirmpilatze.com](https://nikosirmpilatze.com)
+
+:::
+
 ## Measuring behaviour as movement {.smaller}
 
 Defining behaviour is tricky, but many have tried.
