@@ -1,11 +1,11 @@
 ---
 title: movement
 subtitle: a Python toolbox for analysing motion tracking data
-author: Niko Sirmpilatze @ CBIAS 2025
-date: 2025-11-24
+author: Niko Sirmpilatze @ FOSDEM 2026
+date: 2026-01-31
 format:
   revealjs:
-    footer: "[neuroinformatics.dev/slides-movement-cbias2025](https://neuroinformatics.dev/slides-movement-cbias2025/)"
+    footer: "[neuroinformatics.dev/slides-movement-fosdem2026](https://neuroinformatics.dev/slides-movement-fosdem2026/)"
 links:
    website: "https://movement.neuroinformatics.dev"
    github: "https://github.com/neuroinformatics-unit/movement"
