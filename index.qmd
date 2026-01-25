@@ -157,8 +157,8 @@ See also [movement.neuroinformatics.dev/latest/examples](https://movement.neuroi
 
 ## Community adoption {.smaller}
 
-- {{< fa download >}} >70k downloads (PyPI + conda-forge)
-- {{< fa brands github >}} 29 code contributors | {{< fa code-pull-request >}} ~300 merged pull requests
+- {{< fa download >}} ~80k downloads (PyPI + conda-forge)
+- {{< fa brands github >}} 34 code contributors | {{< fa code-pull-request >}} ~330 merged pull requests
 - {{< fa brands python >}} External packages depending on `movement`:
 
 ::: {layout="[[60, 20, -20]]" layout-valign="bottom" .fragment}
