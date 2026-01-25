@@ -214,10 +214,10 @@ Long-term vision: `movement` as the *scikit-image* for animal motion data.
 
 ::: {.fragment}
 
-::: {.callout-tip}
-## Training workshop
+::: {.callout-tip appearance="simple" icon=false} 
+## 📅 Aug 17-21 2026
 
-📅 August 17-21 2026: **Animals in Motion** at the **Open Software Summer School**.
+**Animals in Motion** workshop at the **Open Software Summer School**.
 
 - {{< fa book >}} [animals-in-motion.neuroinformatics.dev](https://animals-in-motion.neuroinformatics.dev/dev/)
 - {{< fa globe >}} [neuroinformatics.dev/open-software-summer-school/](https://neuroinformatics.dev/open-software-summer-school/)
