@@ -12,20 +12,19 @@ links:
    chat: "https://neuroinformatics.zulipchat.com/#narrow/stream/406001-Movement"
 ---
 
-## {{< fa address-card >}} whoami
+## whoami
 
-- **Neuroscientist** & **Research Software Engineer** 🧠🐭💻
+- Neuroscientist & Research Software Engineer 🧠🐭💻
 - [Neuroinformatics Unit](https://neuroinformatics.dev), [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), UCL
 - Fellow of the [Software Sustainability Institute](https://www.software.ac.uk/)
 - Lead developer of [movement](https://movement.neuroinformatics.dev)
 
 ::: {.callout-tip appearance="simple" icon=false} 
-## {{< fa comments >}} Find me online
+## {{< fa paper-plane >}} Find me online
 
 {{< fa brands github >}} [niksirbi](https://github.com/niksirbi) |
 {{< fa brands mastodon >}} [\@niksirbi\@neuromatch.social](https://neuromatch.social/@niksirbi) |
 {{< fa globe >}} {{< iconify simple-icons bluesky >}} [nikosirmpilatze.com](https://nikosirmpilatze.com)
-
 :::
 
 ## Measuring behaviour as movement {.smaller}
@@ -180,12 +179,19 @@ See also [movement.neuroinformatics.dev/latest/examples](https://movement.neuroi
 
 :::
 
-## The even bigger picture
+## The even bigger picture {.smaller}
 
-![](img/Scientific-Python-Ecosystem_movement.png){height="500px"}
+*Long-term vision:* `movement` as the *scikit-image* for animal motion data.
 
-::: aside
-Long-term vision: `movement` as the *scikit-image* for animal motion data.
+![](img/Scientific-Python-Ecosystem_movement.png){height="420px"}
+
+::: {.fragment}
+
+::: {.callout-tip appearance="simple"} 
+If you prefer the R ecosystem, check out the [animovement](https://animovement.github.io/animovement/) toolbox
+by [Mikkel Roald-Arbøl](https://roald-arboel.com).
+:::
+
 :::
 
 ## Acknowledgements {.smaller}
